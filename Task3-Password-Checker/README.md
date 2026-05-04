@@ -1,4 +1,4 @@
-# Task 03: Password Strength Checker
+# Password Strength Checker
 
 This project is a simple Python program that checks the strength of a password and gives suggestions to improve it.
 
